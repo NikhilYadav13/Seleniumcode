@@ -32,6 +32,7 @@ public class Scan {
 		int o;
 		o=m/n;
 		System.out.println("final result is "+o);
+		System.out.println("print");
 	}
 	
 	public static void main(String[] args) {
